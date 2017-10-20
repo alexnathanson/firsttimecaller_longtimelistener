@@ -8,6 +8,6 @@ The performance is controlled by 5 programs.
 <br> 2) The First Time Caller patch controls the all of the video and animation behaviours as well as manages communication with the microcontroller (4), and audio (5).
 <br> 3) The polyloads patch creates multiple instances of video files to load.
 <br> 4) The arduino sketch controls the speed of the motor driven percussive instruments and communicates with Max.
-<br> 5) The 5th program involves with this peice is a super collider program written by my collaborator Dylan Neely.
+<br> 5) The 5th program involved with this peice is a super collider program for sound synthesis written by my collaborator Dylan Neely.
 
 <br> www.fanletters.info/firsttimecaller.html
