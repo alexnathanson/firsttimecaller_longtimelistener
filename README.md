@@ -10,4 +10,4 @@ The performance is controlled by 5 programs.
 <br> 4) The arduino sketch controls the speed of the motor driven percussive instruments and communicates with Max.
 <br> 5) The 5th program involves with this peice is a super collider program written by my collaborator Dylan Neely.
 
-<br> www.fanletters.info
+<br> www.fanletters.info/firsttimecaller.html
